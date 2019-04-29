@@ -1,0 +1,11 @@
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+body {
+  font-family: "Cabin", Arial, Geneva, sans-serif;
+  background-image: url(../../images/clouds.png);
+  margin: 0px;
+  padding: 0px; }
