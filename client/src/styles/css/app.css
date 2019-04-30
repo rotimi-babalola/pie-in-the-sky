@@ -13,6 +13,21 @@ body {
 .wrapper {
   margin: 0 auto; }
 
+h1, h2, h3 {
+  font-family: 'Niconne', cursive;
+  font-weight: normal;
+  color: #C80060;
+  margin-top: 0; }
+
+article img {
+  border-radius: 10px;
+  width: 100%;
+  max-width: 250px; }
+
+img.responsive {
+  width: 100%;
+  max-width: 250px; }
+
 @media (min-width: 550px) {
   .wrapper {
     width: 97%;
