@@ -5,6 +5,7 @@
     },
     "rules": {
         "react/forbid-prop-types": "off",
-        "arrow-parens": "off"
+        "arrow-parens": "off",
+        "object-curly-newline": "off"
     }
 }

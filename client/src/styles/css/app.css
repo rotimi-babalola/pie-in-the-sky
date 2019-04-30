@@ -13,6 +13,12 @@ body {
 .wrapper {
   margin: 0 auto; }
 
+h1, h2, h3 {
+  font-family: 'Niconne', cursive;
+  font-weight: normal;
+  color: #C80060;
+  margin-top: 0; }
+
 @media (min-width: 550px) {
   .wrapper {
     width: 97%;
