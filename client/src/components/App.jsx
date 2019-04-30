@@ -1,12 +1,13 @@
 import React from 'react';
+import { BrowserRouter as Router } from 'react-router-dom';
 import Header from './common/Header';
 
 import '../styles/scss/app.scss';
 
 const App = () => (
-  <div className="wrapper">
+  <Router>
     <Header />
-  </div>
+  </Router>
 );
 
 export default App;
