@@ -1,0 +1,11 @@
+footer {
+  background-color: #00cdd1;
+  color: #fff;
+  clear: both;
+  margin: 0 0.5em 3em 0.5em; }
+  footer p {
+    text-align: center; }
+  footer img {
+    width: 52px; }
+  footer a {
+    color: #fff; }

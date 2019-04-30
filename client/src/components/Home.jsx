@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './common/Header';
 import Button from './common/Button';
+import Footer from './common/Footer';
 
 import '../styles/scss/home.scss';
 
@@ -72,6 +73,7 @@ const Home = () => (
         </article>
       </div>
     </div>
+    <Footer />
   </React.Fragment>
 );
 
